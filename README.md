@@ -1,2 +1,3 @@
 # tarea1-microprocesadores
-maria camila 
+Maria Camila Herrera Ramos 
+Jhon Fredy Muñoz Rodríguez
