@@ -1,5 +1,17 @@
 #include "calculadora.h"
-return sum1 + sum2;
-return res1 - res2;
-return mul1 * mul2;
-return div1 / div2;
+int suma(int op1,int op2)
+{
+return op1 + op2;
+}
+int resta(int op1,int op2)
+{
+return op1 - op2;
+}
+int multiplicacion(int op1,int op2)
+{
+return op1 * op2;
+}
+int divicion(int op1,int op2)
+{
+return op1 / op2;
+}
